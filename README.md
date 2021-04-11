@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://discord.gg/nmSpfrtZqg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
+[<img align="left" alt="https://discord.gg/nmSpfrtZqg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
