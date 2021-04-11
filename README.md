@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: ProB1#0001
+- 📫 How to reach me: ProB1#642
 
 - 🔭 I’m currently working on proxy and bots
 - 🌱 I’m currently learning c++,lua
@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-iProB1.vercel.app/api/spotify-playing" alt="iProB1 Spotify Playing" width="350" />](https://open.spotify.com/user/olpcpp8ljacc05kqm4gym0kbs)
+[<img src="https://now-playing-iProB1.vercel.app/api/spotify-playing" alt="ProB1 Spotify Playing" width="350" />](https://open.spotify.com/user/olpcpp8ljacc05kqm4gym0kbs)
 
 ### Connect with me:
 
@@ -51,9 +51,9 @@
 </details>
 
 <details>
-  <summary>:zap: iProB1's GitHub Stats</summary>
+  <summary>:zap: ProB1's GitHub Stats</summary>
 
-  <img align="left" alt="iProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=true" />
+  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=true" />
 
 </details>
 
