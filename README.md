@@ -59,4 +59,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q
 [discord]: https://discord.gg/nmSpfrtZqg
-[vscode]: https://discord.gg/nmSpfrtZqg
+[vscode]: Visual Studio Code
