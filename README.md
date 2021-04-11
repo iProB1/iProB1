@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-prob1.vercel.app/api/spotify-playing" alt="ProB1 Spotify Playing" width="350" />][spotify]
+[<img src="https://now-playing-iprob1.vercel.app/api/spotify-playing" alt="ProB1 Spotify Playing" width="350" />][spotify]
 
 ### Connect with me:
 
