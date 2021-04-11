@@ -5,5 +5,3 @@
 - 🔭 I’m currently working on proxy and bots
 - 🌱 I’m currently learning c++,lua
 -->
-
-https://github.com/iProB1/github-readme-stats
