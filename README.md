@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: iProB1's GitHub Stats</summary>
 
   <img align="left" alt="iProB1's GitHub Stats" src="https://github-readme-stats.iProB1.vercel.app/api?username=iProB1&show_icons=true&hide_border=true" />
 
