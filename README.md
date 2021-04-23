@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: ProB1#6642
+- 📫 How to reach me: ProB1#1337
 
 - 🔭 I’m currently working on proxy and bots
 - 🌱 I’m currently learning c++,lua
