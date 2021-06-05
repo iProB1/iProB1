@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: ProB1's GitHub Stats</summary>
 
-  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=true" />
+  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
