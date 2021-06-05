@@ -29,10 +29,10 @@
 <details>
   <summary>:zap: ProB1's GitHub Stats</summary>
 
-  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&hide_border=false&theme=radical" />
 
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q
-[discord]: https://discord.gg/nmSpfrtZqg
+[discord]: https://discord.gg/483H4NXM7J
 [spotify]: https://open.spotify.com/user/olpcpp8ljacc05kqm4gym0kbs
