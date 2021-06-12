@@ -19,6 +19,13 @@ const info = {
 console.log(info);
 ```
 
+### Connect with me:
+
+[![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)
+[![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/483H4NXM7J)
+![Language](https://img.shields.io/github/languages/top/iProB1)
+<br />
+
 ### I'm used or using 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
@@ -38,31 +45,12 @@ console.log(info);
     <img src="https://github-profile-trophy.vercel.app/?username=iProB1&theme=nord&row=1" />
 </p>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-iprob1.vercel.app/api/spotify-playing" alt="ProB1 Spotify Playing" width="350" />][spotify]
-
-### Connect with me:
-
-[![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)
-[![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/483H4NXM7J)
-![Language](https://img.shields.io/github/languages/top/iProB1)
-<br />
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [none]()
 <!-- YOUTUBE:END -->
-
-
-
-</details>
-
-<details>
-  <summary>:zap: ProB1's GitHub Stats</summary>
-
-  <img align="left" alt="ProB1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iProB1&show_icons=true&theme=radical" />
 
 </details>
 
