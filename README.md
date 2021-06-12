@@ -11,7 +11,7 @@ const info = {
  name: "Basri",
  pronouns: ["he", "him"],
  where: "Turkey",
- age: 16,
+ age: 17,
  languages: ["lua", "c++", "some c#.", "JavaScript"],
  experience: "less than 3 year"
 }
