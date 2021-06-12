@@ -23,10 +23,9 @@ console.log(info);
 
 [![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)
 [![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/483H4NXM7J)
-![Language](https://img.shields.io/github/languages/top/iProB1)
 <br />
 
-### I'm used or using 
+### I'm used or using Language
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
