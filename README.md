@@ -12,10 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-![Youtube](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)]
-![Discord](https://img.shields.io/discord/803994619993129000?label=discord)(https://discord.gg/483H4NXM7J)
+[![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)
+[![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/483H4NXM7J)
 ![Language](https://img.shields.io/github/languages/top/iProB1)
 <br />
 
