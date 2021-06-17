@@ -23,6 +23,8 @@ console.log(info);
 
 [![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/UCAeTReuv4QAVXnMpytZtE_Q)
 [![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/483H4NXM7J)
+
+add me at discord: https://discord.com/users/592262554840072212
 <br />
 
 ### I'm used or using Language
